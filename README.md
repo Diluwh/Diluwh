@@ -1,17 +1,18 @@
 <h1 align="center">Hi there 👋, I'm Dilush!</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Diluwh&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 Studying in the field of computing.
-- 🌱 Currently learning Kali Linux, Python, and Web Development.
-- 💼 Focusing on red teaming and cybersecurity.
-- 📹 Running a YouTube channel: **Mobile Zilla**.
-- 📍 Based in Thabuththegama, Anuradhapura.
+- 🎓 Passionate about Linux and working in the field of computing.
+- 🌱 Currently learning web development and mobile app creation.
+- 💼 Skilled in cybersecurity and red teaming.
+- 💻 Building and designing websites from scratch.
+- 📱 Developing mobile apps for multiple platforms.
+- 🌐 Exploring new tech trends and learning every day!
 
 ---
 
@@ -22,24 +23,23 @@
   <img src="https://img.shields.io/badge/HTML5-05122A?style=flat&logo=html5" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-05122A?style=flat&logo=css3" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Android_Development-05122A?style=flat&logo=android" alt="Android Development" />
+  <img src="https://img.shields.io/badge/Cybersecurity-05122A?style=flat&logo=hackthebox" alt="Cybersecurity" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Dilush's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Diluwh&show_icons=true&theme=radical" alt="Dilush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diluwh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🔗 Connect with Me:
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCYourChannelID" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:dilunadun8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
