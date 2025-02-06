@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Dilush!</h1>
+<h1 align="center">Hi there 👋, I'm Dilusha!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Diluwh&color=blueviolet&style=flat-square" alt="Profile Views" />
